@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashprinceog
+- 👋 Hi, I’m Yash Prince
 - 👀 I’m interested in Cyber Security and Programming
 - 🌱 I’m currently learning C, html, Python, & CSS
 - 💞️ I’m looking to collaborate on nothing...
